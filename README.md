@@ -1,4 +1,4 @@
-# image-activated-droplet-sorter
+# Image-activated-droplet-sorter
 
 Open-source hardware and software for building a label-free, image-activated
 microfluidic droplet sorting system.

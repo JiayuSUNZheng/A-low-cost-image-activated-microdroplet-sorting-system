@@ -1,0 +1,5 @@
+SHA256 checksums for bundled model/runtime artifacts:
+
+21fdfa969864594165b07a0f9df5df219f7d4eb6f9297959b9df8fb7661cbd65  best160-1.pt
+2bbda650491aba51ae478a5ee1aa73cfdfc497ea2192ac4898fc574a8cc08b6a  best160-1.engine
+67767c0913c7e77afce3e96b8b25f2bc6f056284bc40d78e553dd63a665e3834  best160-1.dll

@@ -1,0 +1,32 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Temporary output
+*.tmp
+*.bak
+output/
+outputs/
+runs/
+
+# Local source material is not part of the curated release.
+0-previous files/
+
+# Local capture artifacts
+*.avi
+
+# Keep the curated release video under media/videos.
+!media/videos/sorting_process_demo.mp4

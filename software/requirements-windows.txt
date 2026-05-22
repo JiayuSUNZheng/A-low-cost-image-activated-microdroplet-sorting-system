@@ -1,0 +1,7 @@
+opencv-python==4.5.*
+numpy
+pyserial
+pygrabber
+PyQt5
+imutils
+torch==1.11.*

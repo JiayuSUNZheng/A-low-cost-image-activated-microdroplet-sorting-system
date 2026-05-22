@@ -1,21 +1,88 @@
-MIT License
+Academic and Non-Commercial Research License
 
 Copyright (c) 2026 Jiayu Sun and contributors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository is made publicly available to support academic, educational,
+and non-commercial research use of the image-activated droplet sorting system.
+It is source-available, but it is not licensed for commercial use.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Permitted Use
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is granted, free of charge, to use, copy, study, modify, reproduce,
+and distribute the files in this repository, including software, firmware,
+hardware design files, documentation, media, and dataset-style materials, only
+for academic, educational, or other non-commercial research purposes.
+
+Permitted non-commercial uses include:
+
+- reproducing the system in an academic or non-profit research laboratory
+- modifying the software, firmware, or hardware files for research experiments
+- using the documentation, figures, and demo materials for teaching or
+  non-commercial research communication
+- sharing modified or unmodified copies with collaborators for non-commercial
+  research use
+
+2. Non-Commercial Restriction
+
+Commercial use is not permitted without prior written permission from the
+copyright holders.
+
+Commercial use includes, but is not limited to:
+
+- selling, licensing, leasing, or otherwise commercializing the software,
+  firmware, hardware designs, documentation, media, or derivative works
+- manufacturing, selling, or offering instruments, kits, chips, modules, or
+  services based on this repository
+- using this repository in paid services, contract research, consulting,
+  commercial product development, internal commercial R&D, or commercial
+  quality-control workflows
+- integrating this repository or derivative works into a commercial product,
+  platform, workflow, or service
+
+Commercial users must obtain a separate written license from the copyright
+holders before using this repository or any derivative work.
+
+3. Redistribution Conditions
+
+Any permitted redistribution of original or modified materials must:
+
+- keep this license notice and copyright notice
+- clearly state whether changes were made
+- not imply endorsement by the original authors
+- preserve safety warnings and research-use limitations
+- apply the same non-commercial restriction to redistributed copies or
+  derivative works
+
+4. Hardware Builds
+
+Non-commercial research users may fabricate, assemble, and test hardware based
+on the design files in this repository. Manufacturing or distributing hardware
+for sale, paid services, commercial evaluation, or commercial R&D requires
+separate written permission from the copyright holders.
+
+5. No Clinical or Turnkey Use
+
+This repository is provided for research use only. It is not a clinical device,
+medical device, consumer product, certified laboratory instrument, or turnkey
+commercial system.
+
+6. No Warranty
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, SAFETY, PERFORMANCE, OR
+REGULATORY COMPLIANCE. THE AUTHORS AND COPYRIGHT HOLDERS SHALL NOT BE LIABLE
+FOR ANY CLAIM, DAMAGE, INJURY, LOSS, OR OTHER LIABILITY ARISING FROM USE,
+MODIFICATION, FABRICATION, OPERATION, DISTRIBUTION, OR RELIANCE ON THE
+MATERIALS.
+
+7. No Patent, Trademark, or Regulatory Grant
+
+This license does not grant patent rights, trademark rights, institutional
+endorsement, regulatory approval, or permission to use any names, logos, or
+marks except as required for attribution.
+
+8. Contact for Commercial Licensing
+
+For commercial licensing, industrial collaboration, or other uses outside this
+license, contact the repository owner.

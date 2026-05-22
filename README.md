@@ -1,7 +1,8 @@
 # Image-activated-droplet-sorter
 
-Open-source hardware and software for building a label-free, image-activated
-microfluidic droplet sorting system.
+Publicly available hardware and software resources for building a label-free,
+image-activated microfluidic droplet sorting system for academic and
+non-commercial research use.
 
 The sorter uses a camera to image droplets in a microfluidic chip, a
 YOLOv5s/TensorRT detector to classify each droplet, a virtual gate to decide
@@ -152,10 +153,13 @@ or turnkey instrument.
 
 ## License
 
-This repository uses a mixed-license intent:
+This repository is available under an academic and non-commercial research
+license. You may use, copy, modify, fabricate, and redistribute the materials
+for academic, educational, or other non-commercial research purposes only.
 
-- software: MIT License
-- hardware design files: CERN-OHL-P-2.0
-- documentation, media, and dataset-style materials: CC BY 4.0
+Commercial use is not permitted without prior written permission from the
+copyright holders. This includes paid services, contract research, consulting,
+commercial product development, internal commercial R&D, manufacturing for
+sale, and integration into commercial instruments or workflows.
 
-Review `LICENSE`, `LICENSE-HARDWARE`, and `LICENSE-DATA` before public release.
+See `LICENSE`, `LICENSE-HARDWARE`, and `LICENSE-DATA` for details.
